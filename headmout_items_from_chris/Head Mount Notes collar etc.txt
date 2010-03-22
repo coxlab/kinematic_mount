@@ -1,0 +1,17 @@
+Drawing Notes
+
+ .86 mm is margin between collarr and magnet. Steel shim About .030".. Jeez. 
+
+ 20.mmm is dia of collar
+
+ ?What is the depth of collar necessary? 
+
+ Got to make a shell 
+------
+ switch shell is 3/4id,
+  maybe 5mm high.
+
+ ----
+ needs filler.
+	3/4" dia
+	2mm deep.

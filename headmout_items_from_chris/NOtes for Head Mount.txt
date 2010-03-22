@@ -1,0 +1,21 @@
+Head mount rat.
+
+ Silicon Nitride balls.
+  1/8" - close to 3mm. 
+	.125" vs .118,so 3.175 mm
+	
+	===============
+
+Brain holder fixes. 
+ mount points rotate 180. 
+	
+	
+	
+==============
+
+ Optic Table: 
+ 
+	25mm center M6 holes. 
+		so, 50mm right triangle.
+		use 1.5" pole instead of discrete mount. 
+  

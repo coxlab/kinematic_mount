@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre2 r22153"
+   sodipodi:docname="kinematic_mount_reg_points.svg"
+   inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3795"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3792"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path3801"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         id="path3798"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.2) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3786"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3649">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop3651" />
+      <stop
+         style="stop-color:#535353;stop-opacity:1;"
+         offset="1"
+         id="stop3653" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3649"
+       id="linearGradient3655"
+       x1="383.35287"
+       y1="574.56006"
+       x2="343.85693"
+       y2="575.57019"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="400.04691"
+     inkscape:cy="453.33535"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="775"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="0,1"
+       position="221.22341,537.40115"
+       id="guide3631" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="310.11683,537.40115"
+       id="guide3633" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="383.35289,537.40115"
+       id="guide3635" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="454.56865,507.60165"
+       id="guide3637" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="236.88077,477.80215"
+       id="guide3643" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="222.23356,561.64482"
+       id="guide3675" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="172.75,155"
+       id="guide3757" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect7542"
+       width="571.34229"
+       height="791.95959"
+       x="90.509666"
+       y="167.0645"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#808080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 284.28571,211.65625 c 0,0 -68.57589,145.71875 -45.71875,185.71875 22.85714,40 51.4375,142.84375 51.4375,142.84375 l 82.84375,0 20,0 82.875,0 c 0,0 28.54911,-102.84375 51.40625,-142.84375 22.85714,-40 -45.6875,-185.71875 -45.6875,-185.71875 l -40.375,0 -121.78125,0 -35,0 z"
+       id="path2816"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:0.21359481000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.42718961000000000, 0.21359481000000000;stroke-dashoffset:0"
+       id="rect3627"
+       width="67.666626"
+       height="327.27585"
+       x="349.01578"
+       y="211.92206"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#b3b3b3;stroke:none;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.40000000000000002, 0.20000000000000001;stroke-dashoffset:0"
+       id="path3625"
+       sodipodi:cx="188.89853"
+       sodipodi:cy="174.53963"
+       sodipodi:rx="27.274118"
+       sodipodi:ry="27.274118"
+       d="m 216.17265,174.53963 a 27.274118,27.274118 0 1 1 -54.54824,0 27.274118,27.274118 0 1 1 54.54824,0 z"
+       transform="matrix(3.5093182,0,0,3.5093182,-280.05597,-251.09723)"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.40000000000000002, 0.20000000000000001;stroke-dashoffset:0"
+       id="path3629"
+       sodipodi:cx="138.3909"
+       sodipodi:cy="537.18439"
+       sodipodi:rx="6.0609155"
+       sodipodi:ry="6.0609155"
+       d="m 144.45182,537.18439 a 6.0609155,6.0609155 0 1 1 -12.12184,0 6.0609155,6.0609155 0 1 1 12.12184,0 z"
+       transform="translate(171.72593,-28.28427)"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="translate(244.96199,-28.28427)"
+       d="m 144.45182,537.18439 a 6.0609155,6.0609155 0 1 1 -12.12184,0 6.0609155,6.0609155 0 1 1 12.12184,0 z"
+       sodipodi:ry="6.0609155"
+       sodipodi:rx="6.0609155"
+       sodipodi:cy="537.18439"
+       sodipodi:cx="138.3909"
+       id="path3639"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.40000000000000002, 0.20000000000000001;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.40000000000000002, 0.20000000000000001;stroke-dashoffset:0"
+       id="path3641"
+       sodipodi:cx="138.3909"
+       sodipodi:cy="537.18439"
+       sodipodi:rx="6.0609155"
+       sodipodi:ry="6.0609155"
+       d="m 144.45182,537.18439 a 6.0609155,6.0609155 0 1 1 -12.12184,0 6.0609155,6.0609155 0 1 1 12.12184,0 z"
+       transform="translate(316.17775,-28.28427)"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.40000000000000002, 0.20000000000000001;stroke-dashoffset:0"
+       id="rect3645"
+       width="183.34268"
+       height="65.659912"
+       x="291.42902"
+       y="542.74023"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient3655);fill-opacity:1;stroke:none;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.40000000000000002, 0.20000000000000001;stroke-dashoffset:0"
+       id="rect3647"
+       width="74.751289"
+       height="64.649765"
+       x="343.95694"
+       y="543.2453"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="translate(171.72593,37.71573)"
+       d="m 144.45182,537.18439 a 6.0609155,6.0609155 0 1 1 -12.12184,0 6.0609155,6.0609155 0 1 1 12.12184,0 z"
+       sodipodi:ry="6.0609155"
+       sodipodi:rx="6.0609155"
+       sodipodi:cy="537.18439"
+       sodipodi:cx="138.3909"
+       id="path3657"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.40000000000000002, 0.20000000000000001;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.40000000000000002, 0.20000000000000001;stroke-dashoffset:0"
+       id="path3659"
+       sodipodi:cx="138.3909"
+       sodipodi:cy="537.18439"
+       sodipodi:rx="6.0609155"
+       sodipodi:ry="6.0609155"
+       d="m 144.45182,537.18439 a 6.0609155,6.0609155 0 1 1 -12.12184,0 6.0609155,6.0609155 0 1 1 12.12184,0 z"
+       transform="translate(244.96199,37.71573)"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="translate(316.17775,37.71573)"
+       d="m 144.45182,537.18439 a 6.0609155,6.0609155 0 1 1 -12.12184,0 6.0609155,6.0609155 0 1 1 12.12184,0 z"
+       sodipodi:ry="6.0609155"
+       sodipodi:rx="6.0609155"
+       sodipodi:cy="537.18439"
+       sodipodi:cx="138.3909"
+       id="path3661"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20000000000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.40000000000000002, 0.20000000000000001;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="287.89349"
+       y="490.71738"
+       id="text3663"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3665"
+         x="287.89349"
+         y="490.71738">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="358.60416"
+       y="490.71738"
+       id="text3667"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3669"
+         x="358.60416"
+         y="490.71738">2</tspan></text>
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.18163577000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.36327153000000001, 0.18163577000000000;stroke-dashoffset:0"
+       id="rect3691"
+       width="180.83568"
+       height="54.566605"
+       x="292.42996"
+       y="611.92651"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 310.27724,490.77128 0,262.00658"
+       id="path3681"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3683"
+       d="m 383.35065,490.77128 0,262.00658"
+       style="fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 454.40824,490.77128 0,262.00658"
+       id="path3685"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3687"
+       d="m 514.31771,574.56003 -290.84677,0"
+       style="fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 512.7779,508.39504 -358.48143,0"
+       id="path3689"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#800000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 561.18826,612.43884 -87.80215,0"
+       id="path3693"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3695"
+       d="m 559.94993,666.06003 -404.77912,0"
+       style="fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="473.76154"
+       y="602.8443"
+       id="text3671"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3673"
+         x="473.76154"
+         y="602.8443">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#800000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="504.28574"
+       y="644.50507"
+       id="text3697"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3699"
+         x="504.28574"
+         y="644.50507">4mm</tspan></text>
+    <text
+       id="text3701"
+       y="597.07648"
+       x="133.42859"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#800000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="597.07648"
+         x="133.42859"
+         id="tspan3703"
+         sodipodi:role="line">12mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#800000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="213.42859"
+       y="629.07648"
+       id="text3705"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="213.42859"
+         y="654.07648"
+         id="tspan3709">7mm</tspan></text>
+    <text
+       id="text3713"
+       y="698.57648"
+       x="329.42859"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#800000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan3715"
+         y="698.57648"
+         x="329.42859"
+         sodipodi:role="line">6.5</tspan><tspan
+         y="723.57648"
+         x="329.42859"
+         sodipodi:role="line"
+         id="tspan3717">mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#800000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="403.42859"
+       y="698.57648"
+       id="text3719"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="403.42859"
+         y="698.57648"
+         id="tspan3721">6.5</tspan><tspan
+         id="tspan3723"
+         sodipodi:role="line"
+         x="403.42859"
+         y="723.57648">mm</tspan></text>
+    <text
+       id="text3725"
+       y="580.50507"
+       x="526.28577"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#800000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="580.50507"
+         x="526.28577"
+         id="tspan3727"
+         sodipodi:role="line">Section A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#800000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="526.28577"
+       y="863.62488"
+       id="text3729"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3731"
+         x="526.28577"
+         y="863.62488">Section A</tspan></text>
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       id="rect3745"
+       width="183.34268"
+       height="20.664223"
+       x="291.42902"
+       y="843.7359"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="859.24023"
+       x="291.42902"
+       height="35.159912"
+       width="183.34268"
+       id="rect3733"
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="843.7478"
+       x="349.01578"
+       height="17.594872"
+       width="67.666626"
+       id="rect3741"
+       style="fill:#d4aa00;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:none"
+       d="m 350.92884,828.2887 -0.0441,0.10704 -0.13221,0 0,0.26761 -7.84457,16.48442 -7.99881,16.85907 15.84338,0 0.17628,0 16.01967,0 48.32342,0 16.01966,0 -7.99881,-16.85907 -8.02082,-16.85907 -0.0441,0.10704 -64.25494,0 -0.0441,-0.10704 z"
+       id="path3749"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 383.24788,828.31434 -203.92793,0"
+       id="path3763"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 383.24788,859.21702 -206.01262,0"
+       id="path3765"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#800000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 342.92906,843.76568 -85.17091,0"
+       id="path3767"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#800000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="141.73189"
+       y="849.43005"
+       id="text3769"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="141.73189"
+         y="849.43005"
+         id="tspan3773">3mm</tspan></text>
+    <text
+       id="text3777"
+       y="814.42822"
+       x="250.97989"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#800000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan3779"
+         y="814.42822"
+         x="250.97989"
+         sodipodi:role="line">1.6mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.92625356px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 282.13561,854.40915 0,-9.20917"
+       id="path4609"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9659127px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="m 281.95883,827.04595 0,-9.63704"
+       id="path4611"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow1Mend)"
+       d="m 198.75,857.61218 0,-27.75"
+       id="path4999"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.97157717px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 242,610.87639 0,-33.99181"
+       id="path5577"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.97849029px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 241.5,632.35143 0,31.87843"
+       id="path5771"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 168.75,579.11218 0,-68.75"
+       id="path5965"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 168,599.11218 0,65"
+       id="path6159"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 531,629.86218 0,-16"
+       id="path6353"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 531,647.11218 0,15.75"
+       id="path6547"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 437.5,691.11218 14,0"
+       id="path6741"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 401,691.61218 -15.5,0"
+       id="path6935"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 327.75,691.61218 -15.25,0"
+       id="path7129"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 362,690.61218 18.25,0"
+       id="path7323"
+       inkscape:export-filename="/Users/graham/Desktop/kinematic_mount_reg_points.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
